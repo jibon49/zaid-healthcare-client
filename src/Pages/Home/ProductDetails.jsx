@@ -23,7 +23,7 @@ const ProductDetails = () => {
             </div>
 
 
-            <div className="flex flex-col items-center md:flex-row mt-20 justify-around p-2 md:p-10">
+            <div className="flex flex-col items-center md:flex-row mt-10 justify-around p-2 md:p-10">
                 <div className="w-1/2">
                     <img className="w-full text-justify md:w-3/4" src={product1} alt="" />
                 </div>
@@ -40,7 +40,7 @@ const ProductDetails = () => {
             </div>
 
 
-            <div className="flex flex-col items-center md:flex-row mt-20 justify-around p-2 md:p-10">
+            <div className="flex flex-col items-center md:flex-row mt-10 justify-around p-2 md:p-10">
                 <div className="w-1/2">
                     <img className="w-full text-justify md:w-3/4" src={product1} alt="" />
                 </div>

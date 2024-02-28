@@ -4,6 +4,8 @@ import Banner from "../Pages/Home/Banner";
 import ProductDetails from "../Pages/Home/ProductDetails";
 import Features from "../Pages/Home/Features";
 import BillingInfo from "../Pages/Home/BillingInfo";
+import Footer from "../Pages/Home/Footer";
+import ProductsCard from "../Pages/Home/ProductsCard";
 
 
 const Main = () => {
@@ -14,7 +16,9 @@ const Main = () => {
             <Banner></Banner>
             <ProductDetails></ProductDetails>
             <Features></Features>
+            <ProductsCard></ProductsCard>
             <BillingInfo></BillingInfo>
+            <Footer></Footer>
         </div>
     );
 };
